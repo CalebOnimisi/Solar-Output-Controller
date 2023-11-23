@@ -241,8 +241,8 @@ html {
     position: relative;
     top: 50%;
     left: 50%;
-    /* width: auto;
-    height: auto; */
+    width: auto;
+    height: auto;
     max-height: max-content;
     max-width: max-content;
     margin: 0px auto 0px auto;
