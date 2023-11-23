@@ -237,7 +237,7 @@ html {
   border-radius: 5px;
   color: #fff;
 } */
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 425px) {
   body {
     position: absolute;
     /* top: 50%; */
