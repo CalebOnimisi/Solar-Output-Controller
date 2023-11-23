@@ -239,9 +239,9 @@ html {
 } */
 @media screen and (max-width: 375px) {
   body {
-    position: relative;
-    top: 50%;
-    left: 50%;
+    position: absolute;
+    /* top: 50%; */
+    /* left: 50%; */
     /* width: auto;
     height: auto; */
     max-height: max-content;
@@ -251,7 +251,7 @@ html {
   }
 
   .header h1 {
-    font-size: 5rem;
+    font-size: 1rem;
   }
   .img {
     background-size: cover;
